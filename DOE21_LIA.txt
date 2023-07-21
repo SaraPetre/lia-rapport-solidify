@@ -1,0 +1,16 @@
+Kursöversikt
+
+Innehåll
+
+Kursen syftar till att ge dig som studerar yrkesförberedande färdigheter i yrkesrollen som DevOps Engineer eller systemutvecklare i projekt med implementerade devops- metoder.
+
+Kursen ger fördjupade kunskaper och färdigheter från branschanknutna projekt.
+
+Under LIA:n ska den du tillämpa och fördjupa kunskaper och färdigheter i
+problemanalys, problemlösning, arbete i ett team. Du ska också utveckla dina yrkesmässiga kunskaper och färdigheter i praktiskt arbete, både under handledning och självständigt.
+
+Efter en tid på LIA:n ska du kunna visa grundläggande färdigheter att verka i yrkesrollen under handledning och under givna förutsättningar.
+
+Efter avslutad kurs är målet att kunna verka i din kommande yrkesroll som DevOps Engineer eller Systemutvecklare Python i projekt med implementerade devops-metoder. Du ska ha fått insyn i vad det innebär att planera och genomföra ett projekt med implementering av DevOps.
+
+Under senare delen av perioden avser du kunna tillämpa och fördjupa mer avancerade kunskaper inom yrkesområdet, delvis under handledning och även till stor del målstyrt under eget ansvar. Du ska kunna att verka som teammedlem inom de praktiska och teoretiska områden som ingår i tillämpliga skolförlagda moment.
